@@ -1,0 +1,130 @@
+[
+  {
+    "priority": "A",
+    "name": "EURAXESS Jobs",
+    "region": "欧洲/全球",
+    "purpose": "岗位制 PhD、MSCA 项目、研究职位",
+    "keywords": "education; migration; inequality; digital learning; doctoral researcher",
+    "url": "https://euraxess.ec.europa.eu/jobs/search"
+  },
+  {
+    "priority": "A",
+    "name": "AcademicTransfer",
+    "region": "荷兰",
+    "purpose": "荷兰高校岗位制 PhD",
+    "keywords": "education; learning sciences; educational psychology; policy",
+    "url": "https://www.academictransfer.com/en/jobs/"
+  },
+  {
+    "priority": "A",
+    "name": "jobs.ac.uk – PhD",
+    "region": "英国/全球",
+    "purpose": "英国 studentship、研究项目、奖学金",
+    "keywords": "education PhD; ESRC; studentship; educational technology",
+    "url": "https://www.jobs.ac.uk/search/phds"
+  },
+  {
+    "priority": "A",
+    "name": "FindAPhD",
+    "region": "英国/全球",
+    "purpose": "项目制 PhD、奖学金、导师项目",
+    "keywords": "funded PhD education; learning sciences; migration education",
+    "url": "https://www.findaphd.com/"
+  },
+  {
+    "priority": "A",
+    "name": "Academic Positions",
+    "region": "欧洲/全球",
+    "purpose": "岗位制博士、研究职位提醒",
+    "keywords": "doctoral student; PhD candidate; educational research",
+    "url": "https://academicpositions.com/jobs/position/phd"
+  },
+  {
+    "priority": "A",
+    "name": "MSCA Doctoral Networks Jobs",
+    "region": "欧洲",
+    "purpose": "Marie Curie 博士网络职位",
+    "keywords": "doctoral network; digital society; skills; migration",
+    "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/jobs"
+  },
+  {
+    "priority": "A",
+    "name": "DAAD PhDGermany",
+    "region": "德国",
+    "purpose": "国际申请者适用的德国博士职位",
+    "keywords": "education research; sociology; economics; English",
+    "url": "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/"
+  },
+  {
+    "priority": "A",
+    "name": "Jobbnorge",
+    "region": "挪威",
+    "purpose": "PhD Research Fellow / stipendiary positions",
+    "keywords": "PhD research fellow; education; pedagogy; migration",
+    "url": "https://www.jobbnorge.no/search/en"
+  },
+  {
+    "priority": "A",
+    "name": "UKRI Funded Studentships",
+    "region": "英国",
+    "purpose": "了解 UKRI 研究委员会资助路径",
+    "keywords": "studentship; doctoral training partnership; international student",
+    "url": "https://www.ukri.org/apply-for-funding/ukri-funded-studentships/"
+  },
+  {
+    "priority": "A",
+    "name": "Hong Kong PhD Fellowship Scheme",
+    "region": "香港",
+    "purpose": "HKPFS 初始申请及资助信息",
+    "keywords": "education; psychology; policy; technology; sociology",
+    "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html"
+  },
+  {
+    "priority": "A",
+    "name": "Australian Government RTP",
+    "region": "澳大利亚",
+    "purpose": "RTP 资助规则与高校执行方式",
+    "keywords": "RTP scholarship; graduate research; international PhD",
+    "url": "https://www.education.gov.au/research-block-grants/research-training-program"
+  },
+  {
+    "priority": "B",
+    "name": "Study in Sweden – PhD",
+    "region": "瑞典",
+    "purpose": "理解瑞典博士招聘方式",
+    "keywords": "doctoral student; education; pedagogy; learning",
+    "url": "https://studyinsweden.se/plan-your-studies/degree-programmes/phd-programmes/"
+  },
+  {
+    "priority": "B",
+    "name": "University of Copenhagen PhD Jobs",
+    "region": "丹麦",
+    "purpose": "哥本哈根大学博士职位",
+    "keywords": "PhD fellowship; education; social science; migration",
+    "url": "https://employment.ku.dk/phd/"
+  },
+  {
+    "priority": "B",
+    "name": "University of Auckland Doctoral Scholarships",
+    "region": "新西兰",
+    "purpose": "奥克兰大学博士奖学金",
+    "keywords": "doctoral scholarship; education; social science",
+    "url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html"
+  },
+  {
+    "priority": "B",
+    "name": "NUS Graduate Scholarships",
+    "region": "新加坡",
+    "purpose": "NUS 研究型博士奖学金",
+    "keywords": "education; learning sciences; policy; social science",
+    "url": "https://nusgs.nus.edu.sg/scholarships/"
+  },
+  {
+    "priority": "B",
+    "name": "NTU Graduate Scholarships",
+    "region": "新加坡",
+    "purpose": "NTU/NIE 博士奖学金",
+    "keywords": "NIE PhD; education; motivation; research scholarship",
+    "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships"
+  }
+]
