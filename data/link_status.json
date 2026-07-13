@@ -1,4 +1,117 @@
 {
-  "checked_at": null,
-  "results": []
+  "checked_at": "2026-07-13T05:27:46.926783+00:00",
+  "results": [
+    {
+      "name": "EURAXESS Jobs",
+      "url": "https://euraxess.ec.europa.eu/jobs/search",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "AcademicTransfer",
+      "url": "https://www.academictransfer.com/en/jobs/",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "jobs.ac.uk – PhD",
+      "url": "https://www.jobs.ac.uk/search/phds",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "FindAPhD",
+      "url": "https://www.findaphd.com/",
+      "ok": true,
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "Academic Positions",
+      "url": "https://academicpositions.com/jobs/position/phd",
+      "ok": true,
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "MSCA Doctoral Networks Jobs",
+      "url": "https://marie-sklodowska-curie-actions.ec.europa.eu/jobs",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "DAAD PhDGermany",
+      "url": "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "Jobbnorge",
+      "url": "https://www.jobbnorge.no/search/en",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "UKRI Funded Studentships",
+      "url": "https://www.ukri.org/apply-for-funding/ukri-funded-studentships/",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "Hong Kong PhD Fellowship Scheme",
+      "url": "https://cerg1.ugc.edu.hk/hkpfs/index.html",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "Australian Government RTP",
+      "url": "https://www.education.gov.au/research-block-grants/research-training-program",
+      "ok": false,
+      "status": null,
+      "error": "The read operation timed out"
+    },
+    {
+      "name": "Study in Sweden – PhD",
+      "url": "https://studyinsweden.se/plan-your-studies/degree-programmes/phd-programmes/",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "University of Copenhagen PhD Jobs",
+      "url": "https://employment.ku.dk/phd/",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "University of Auckland Doctoral Scholarships",
+      "url": "https://www.auckland.ac.nz/en/study/scholarships-and-awards/scholarship-types/postgraduate-scholarships/doctoral-scholarships.html",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "NUS Graduate Scholarships",
+      "url": "https://nusgs.nus.edu.sg/scholarships/",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    },
+    {
+      "name": "NTU Graduate Scholarships",
+      "url": "https://www.ntu.edu.sg/admissions/graduate/financialmatters/scholarships",
+      "ok": true,
+      "status": 200,
+      "error": ""
+    }
+  ]
 }
