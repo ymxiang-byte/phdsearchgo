@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-07-13T05:27:46.926783+00:00",
+  "checked_at": "2026-07-20T11:25:17.710965+00:00",
   "results": [
     {
       "name": "EURAXESS Jobs",
@@ -47,8 +47,8 @@
       "name": "DAAD PhDGermany",
       "url": "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/",
       "ok": true,
-      "status": 200,
-      "error": ""
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "name": "Jobbnorge",
@@ -88,9 +88,9 @@
     {
       "name": "University of Copenhagen PhD Jobs",
       "url": "https://employment.ku.dk/phd/",
-      "ok": true,
-      "status": 200,
-      "error": ""
+      "ok": false,
+      "status": 503,
+      "error": "HTTP Error 503: Service Unavailable"
     },
     {
       "name": "University of Auckland Doctoral Scholarships",
