@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-08-03T12:43:59.547644+00:00",
+  "checked_at": "2026-08-10T05:53:05.203845+00:00",
   "results": [
     {
       "name": "EURAXESS Jobs",
@@ -47,8 +47,8 @@
       "name": "DAAD PhDGermany",
       "url": "https://www.daad.de/en/studying-in-germany/phd-studies-research/phd-germany/",
       "ok": true,
-      "status": 403,
-      "error": "HTTP Error 403: Forbidden"
+      "status": 200,
+      "error": ""
     },
     {
       "name": "Jobbnorge",
