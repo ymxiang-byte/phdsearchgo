@@ -1,12 +1,12 @@
 {
-  "checked_at": "2026-10-19T05:01:32.273447+00:00",
+  "checked_at": "2026-10-26T05:05:28.961589+00:00",
   "results": [
     {
       "name": "EURAXESS Jobs",
       "url": "https://euraxess.ec.europa.eu/jobs/search",
       "ok": true,
-      "status": 200,
-      "error": ""
+      "status": 403,
+      "error": "HTTP Error 403: Forbidden"
     },
     {
       "name": "AcademicTransfer",
